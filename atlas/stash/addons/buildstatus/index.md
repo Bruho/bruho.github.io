@@ -3,10 +3,10 @@ layout: default
 title: Build Status Addon overview
 ---
 
-# Build Status plugin for Atlassian Stash
+# Build Status plugin for Atlassian Stash [![Build Status](https://api.shippable.com/projects/54ba59b35ab6cc135288edff/badge?branchName=master)](https://app.shippable.com/projects/54ba59b35ab6cc135288edff/builds/latest)
 <h5>aka "Build status for automerge"</h5>
 
-[Grab it from Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.bolyuba.stash.plugin.stash-build-status-plugin)
+[Grab it from Atlassian Marketplace](https://marketplace.atlassian.com/plugins/com.bolyuba.stash.plugin.stash-build-status-plugin) 
 
 ## Intro
 
