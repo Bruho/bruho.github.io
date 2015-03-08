@@ -1,0 +1,13 @@
+# Site settings
+title: docs.bruho.com
+email: georgy@bolyuba.com
+description: > # this means to ignore newlines until "baseurl:"
+  Plugins for Atlassian products @ Bruho.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://docs.bruho.com" # the base hostname & protocol for your site
+twitter_username: capnemo
+github_username:  georgy
+bitbucket_username: bolyuba
+
+# Build settings
+markdown: kramdown
